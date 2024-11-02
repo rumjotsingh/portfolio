@@ -32,8 +32,8 @@ function Projects() {
               isBlog={false}
               title="Ecommerce"
               description="This eCommerce application allows users to log in as either **admins** or **customers**, each having distinct roles. **Admins** can create, update, and delete products, while **users** can browse products, add them to the cart, and complete the checkout process. All routes are secured through **authentication** and **authorization**, with role-based access control (RBAC) ensuring that only authorized individuals access certain features.The application uses the **Context API** to manage global state, such as user authentication, product lists, and shopping cart data."
-              ghLink="https://github.com/rumjotsingh/ecommerce"
-              demoLink="https://www.linkedin.com/in/rumjot-singh-747129281/recent-activity/all/"
+              ghLink="https://github.com/rumjotsingh/ecommerce-frontend"
+              demoLink="https://ecommerce-frontend1-ln5a.onrender.com/"
             />
           </Col>
 
@@ -43,7 +43,7 @@ function Projects() {
               isBlog={false}
               title="Wandurlust"
               description="Wanderlust is a full-stack application designed to offer user-friendly home-sharing experience, similar to the popular platform Airbnb. With Wanderlust, users can effortlessly list their homes."
-              ghLink="https://github.com/rumjotsingh/major"
+              ghLink="https://github.com/rumjotsingh/WandurLust"
               demoLink="https://major-zgeb.onrender.com/"
             />
           </Col>
