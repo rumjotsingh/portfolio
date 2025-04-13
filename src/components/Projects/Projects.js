@@ -50,9 +50,9 @@ function Projects() {
           </Col>
             <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={carSystem}
+              imgPath={AutoHood}
               isBlog={false}
-              title="Car System"
+              title="AutoHood"
               description="This project is a car system that allows users to view, add, update, and delete cars. The application uses  to calculate the car loan and onRoad price of the car."
               ghLink="https://github.com/rumjotsingh/carSystem"
               demoLink="https://carsystem-zeta.vercel.app/"
